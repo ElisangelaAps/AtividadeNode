@@ -9,7 +9,6 @@
     "start": "npm start"
   },
   "keywords": [],
-  "author": "Lucas de Oliveira Santos",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.2.0"
